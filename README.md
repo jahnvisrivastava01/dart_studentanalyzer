@@ -44,6 +44,3 @@ main.dart
 ```bash
 dart run main.dart
 ```
-
-```
-```
